@@ -60,22 +60,32 @@ Pemformatan string membuat kita mau tidak mau harus memasukan item ke dalam stri
 ###- Latihan 3 
 
 - Buatlah kode program agar muncul gambar seperti di bawah ini 
+- 
 Print(' { : > 16 } '. format (' * '))
+
 Print(' { : > 17 } '. format (' * ' * 3))
+
 Print(' { : > 18 } '. format (' * ' * 5))
+
 Print(' { : > 19 } '. format (' * ' * 7))
+
 Print(' { : > 20 } '. format (' * ' * 9))
 
 Print(' { : > 20 } '. format (' * ' * 9))
+
 Print(' { : > 19 } '. format (' * ' * 7))
+
 Print(' { : > 18 } '. format (' * ' * 5))
+
 Print(' { : > 17 } '. format (' * ' * 3))
+
 Print(' { : > 16 } '. format (' * '))
-[gambar1](gambar/gambarbelahketupatcoding.png)
+
+![gambar1](gambar/coding.png)
 
 ###- Hasil yang di buat dalam kode program python
 
-![gambar1](gambar13.png)
+![gambar1](gambar/belahketupat.png)
 
 
 ###- Membuat kode program pada python untuk menghitung luas dan keliling lingkaran menggunakan python 
@@ -89,13 +99,10 @@ print("Keliling Lingkaran:",3)
 
 
 
-- Kemudian diminta memasukan nilai Jari-jari (r), dengan angka 4
+- Kemudian diminta memasukan nilai Jari-jari (r), dengan angka 20
 
 - Kita deklarasikan variabel pi = 3.14
-
-![gambar1](ambar14.png)
-
-
+ 
 - Memasukan rumus luas dan keliling lingkaran 
 L = pi * int(r) * int(r)
 K = 2 * pi * int(r)
@@ -103,20 +110,19 @@ K = 2 * pi * int(r)
 print("Luas lingkaran:", 1)
 print("keliling lingkaran:",k)
 
-![gambar1](gambar/gambarluasdanlingkaran2.png)
-![gambar1](gambar/gambarluasdanlingkaran5.png)
+![gambar1](gambar/codinglingkaran.jpeg)
 
 
 ###- Hasil kode program luas dan keliling lingkaran 
 
-![gambar1](gambar/py1.png)
-![gambar1](gambar/py1.png)
+![gambar1](gambar/hasillingkaran.jpeg)
+
 
 
 ###- Flowchart lingkaran
 
 
-![gambar1](gambarflowchart.png)
+![gambar1](gambar/gambarflowchart.png)
 
 
 ###- Praktikum 3 
