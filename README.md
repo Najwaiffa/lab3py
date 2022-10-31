@@ -7,26 +7,31 @@
 Penggunaan end pada python ini bertujuan untuk memberikan jarak atau parameter untuk yang kita buat 
 
 ![gambar1](gambar/gmbr1.png)
+
 ![gambar1](gambar/gmbr2.png)
 
 
 ###- Penggunaan separator 
 
 Penggunaan end pada python ini sebagai pemisah string setiap variabel yang di kasih nilai
+
 ![gambar1](gambar/gmbr3.png)
+
 ![gambar1](gambar/gmbr4.png)
 
 ###-String Format
 
 Pemformatan string membuat kita mau tidak mau harus memasukan item ke dalam string daripada coba menggabungkan nya string memakai koma atau string concatenation
 
-[gambar1](gambar/gmbr5.png)
-[gambar1](gambar/gmbr6.png)
+![gambar1](gambar/gmbr5.png)
+
+![gambar1](gambar/gmbr6.png)
 
 ###- Contoh string concatenation
 
+![gambar1](gambar/gmbr6.png)
+
 ![gambar1](gambar/gmbr7.png)
-![gambar1](gambar/gmbr8.png)
 
 ###- Yang di atas adalah contoh formating string 
 
@@ -46,15 +51,18 @@ Pemformatan string membuat kita mau tidak mau harus memasukan item ke dalam stri
 
 - Setelah di input masukan variabel yang telah di inputkan 
 - Lalu saya akan menggabungkan Variabel a dengan b dengan menggunakan formatting string
+
+![gambar1](gambar/gmbr8.png)
 ![gambar1](gambar/gmbr9.png)
-![gambar1](gambar/gmbr10.png)
+
 
 ###- Konversi nilai variabel
 
 - konversi yang saya masukan adalah nilai variabel yang masih kurang lebih sama yaitu 'String' pada 'Integer' 
 - Seusai itu kita harus menjumlahkan dan membagi dengan menggunakan seperti tadi yaitu menggunakan formatting string
 
-![gambar1](gmbr11/.png)
+![gambar1](gambar/gambar13.png)
+
 ![gambar1](gambar/gmbr12.png)
 
 ###- Latihan 3 
